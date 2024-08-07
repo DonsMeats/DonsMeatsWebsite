@@ -1,0 +1,29 @@
+{
+  "packages.html": {
+    "file": "assets/packages.html.9721f491.js",
+    "src": "packages.html",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.esm.7088dd46.js"
+    ]
+  },
+  "_bootstrap.esm.7088dd46.js": {
+    "file": "assets/bootstrap.esm.7088dd46.js",
+    "css": [
+      "assets/bootstrap.esm.9ac7d78d.css"
+    ],
+    "assets": [
+      "assets/bootstrap-icons.c874e14c.woff2",
+      "assets/bootstrap-icons.92f8082b.woff",
+      "assets/meatbackground.5a65e034.jpg",
+      "assets/bundle.f17c412e.png",
+      "assets/map.aaa6b44e.jpg"
+    ]
+  },
+  "_main.2a2b78d3.js": {
+    "file": "assets/main.2a2b78d3.js",
+    "imports": [
+      "_bootstrap.esm.7088dd46.js"
+    ]
+  }
+}
